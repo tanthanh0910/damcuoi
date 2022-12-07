@@ -26,9 +26,9 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
-        <link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
-        <link rel="stylesheet" href="{{asset('css/owl.theme.default.min.css')}}">
-        <link rel="stylesheet" href="{{asset('css/style.css')}}">
+        <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/style.css">
     </head>
     <body class="antialiased">
     <section class="ftco-section">
@@ -91,10 +91,10 @@
             </div>
         </div>
     </section>
-    <script src="{{asset('js/jquery.min.js')}}"></script>
-    <script src="{{asset('js/popper.js')}}"></script>
-    <script src="{{asset('js/bootstrap.min.js')}}"></script>
-    <script src="{{asset('js/owl.carousel.min.js')}}"></script>
-    <script src="{{asset('js/main.js')}}"></script>
+    <script src="https://wedding-tanthanhh0910.koyeb.app/js/jquery.min.js"></script>
+    <script src="https://wedding-tanthanhh0910.koyeb.app/js/popper.js"></script>
+    <script src="https://wedding-tanthanhh0910.koyeb.app/js/bootstrap.min.js"></script>
+    <script src="https://wedding-tanthanhh0910.koyeb.app/js/owl.carousel.min.js"></script>
+    <script src="https://wedding-tanthanhh0910.koyeb.app/js/main.js"></script>
     </body>
 </html>
