@@ -31,12 +31,27 @@
         <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/style.css">
     </head>
     <body class="antialiased">
-    <section class="ftco-section">
+    <section class="ftco-section" style="padding: 4em 0">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="featured-carousel owl-carousel">
                         <div class="item">
+                            <div class="work">
+                                <div class="text w-100">
+                                    <span>
+                                        <a href="#" class="text-dark" style="font-family: 'Brush Script MT', cursive; font-size: 30px;margin-left: 100px">Welcome</a>
+                                    </span>
+                                    <h3 class="" style="font-family: 'Brush Script MT', cursive; font-size: 50px;margin-left: 20px">Save the Date</h3>
+                                </div>
+                                <div class="img d-flex align-items-end justify-content-center" style="background-image: url(images/image5.png); ">
+                                    <div class="text w-100">
+                                        <h3 style="text-align: center"><a href="#" >Thành & Trang</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item1" style="padding: 5em 0">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center" style="background-image: url(images/image1.jpg);">
                                     <div class="text w-100">
@@ -56,7 +71,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center" style="background-image: url(images/image-3.jpg);">
                                     <div class="text w-100">
@@ -66,7 +81,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center" style="background-image: url(images/image-4.jpg);">
                                     <div class="text w-100">
@@ -76,7 +91,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center" style="background-image: url(images/image-2.jpg);">
                                     <div class="text w-100">
