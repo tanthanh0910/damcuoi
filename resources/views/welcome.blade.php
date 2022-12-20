@@ -405,12 +405,12 @@
             font-family: 'Nunito', sans-serif;
         }
 
-        /*.owl-dots{*/
-        /*    display: none;*/
-        /*}*/
-        /*.owl-nav{*/
-        /*    display: none;*/
-        /*}*/
+        .owl-dots{
+            display: none;
+        }
+        .owl-nav{
+            display: none;
+        }
     </style>
     <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.carousel.min.css">
     <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.theme.default.min.css">
@@ -521,12 +521,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="item">
+                    <div class="item1">
                         <div class="work">
-                            <div>
-                                <span>Ngày đặt biệt nhất cuộc đời</span>
-                                <div>15 tháng 03 năm 2023</div>
-                            </div>
                             <div class="img d-flex align-items-end justify-content-center"
                                  style="background-image: url(images/anh2.png);">
                                 <div class="text w-100">
