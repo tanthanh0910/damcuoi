@@ -415,8 +415,17 @@
     <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.carousel.min.css">
     <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://wedding-tanthanhh0910.koyeb.app/css/style.css">
+    <script type="text/javascript">
+        window.onload=function(){
+            document.getElementById("my_audio").play();
+        }
+    </script>
 </head>
 <body class="antialiased">
+<video id="my_audio" controls autoplay loop muted hidden>
+    <source src="images/Ngay-Cuoi-Khac-Viet.mp3" type="audio/ogg">
+    <source src="images/Ngay-Cuoi-Khac-Viet.mp3" type="audio/mpeg">
+</video>
 <section class="ftco-section" style="padding: 4em 0">
     <div class="container">
         <div class="row">
