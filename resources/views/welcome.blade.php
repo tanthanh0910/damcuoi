@@ -514,7 +514,7 @@
                                             |
                                             2023</h2>
                                         <h3 style="text-align: center; font-family: 'Apple Chancery';"><a href="#">Thành
-                                                &
+                                                ❤️
                                                 Trang</a></h3>
                                     </div>
                                 </div>
@@ -525,7 +525,7 @@
                                 <div class="img d-flex align-items-end justify-content-center"
                                      style="background-image: url(images/image1.jpg);">
                                     <div class="text w-100">
-                                        <span class="cat">Thành + Trang</span>
+                                        <span class="cat">Thành ❤️ Trang</span>
                                         <h3 style="font-size: 30px !important;"><a href="#">WE GOT MARRIED</a></h3>
                                     </div>
                                 </div>
@@ -538,7 +538,7 @@
                                     <div class="text w-100">
                                         <div class="cat"
                                              style="color: black;margin-left: 60px; font-family: 'Comic Sans MS'"><b>Tấn
-                                                Thành + Thị Trang</b></div>
+                                                Thành ❤️ Thị Trang</b></div>
                                         <h5 style="color: white">Có một câu chuyện tình yêu đẹp của chúng tôi về cuộc
                                             hành
                                             trình yêu nhau mọi người cùng nghe mình kể nhé !</h5>
