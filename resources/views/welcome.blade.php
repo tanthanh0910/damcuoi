@@ -422,7 +422,7 @@
     </script>
 </head>
 <body class="antialiased">
-<video id="my_audio" controls autoplay loop muted style="margin-top: -96px;margin-bottom: -56px">
+<video id="my_audio" controls autoplay loop muted playsinline style="margin-top: -96px;margin-bottom: -56px">
     <source src="images/Ngay-Cuoi-Khac-Viet.mp3" type="audio/ogg">
     <source src="images/Ngay-Cuoi-Khac-Viet.mp3" type="audio/mpeg">
 </video>
