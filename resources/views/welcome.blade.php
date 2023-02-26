@@ -534,7 +534,7 @@
                         <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center"
-                                     style="background-image: url(images/anh1.png);">
+                                     style="background-image: url(images/cccc.jpeg);">
                                     <div class="text w-100">
                                         <div class="cat"
                                              style="color: black;margin-left: 60px; font-family: 'Comic Sans MS'"><b>Tấn
@@ -549,7 +549,7 @@
                         <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center"
-                                     style="background-image: url(images/anh3.jpeg);">
+                                     style="background-image: url(images/bb.jpeg);">
                                     <div class="text w-100">
                                         <h5 style="color: white ;font-size: 19px">2019😘2020😘2021😘2022😘2023</h5>
                                         <h5 style="color: white">Chúng tôi cùng học chung một ngôi trường đại học tình
@@ -576,7 +576,7 @@
                         <div class="item1">
                             <div class="work">
                                 <div class="img d-flex align-items-end justify-content-center"
-                                     style="background-image: url(images/image-4.jpg);">
+                                     style="background-image: url(images/dd.jpeg);">
                                     <div class="text w-100">
                                         <h5 style="color: white; font-size: 19px">2019😘2020😘2021😘2022😘2023</h5>
                                         <h5 style="color: white">Rồi cũng tới buổi hẹn hò đầu tiên mới đầu cả hai còn
